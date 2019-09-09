@@ -1,13 +1,21 @@
 # Use this space to code along with the readme
-
-phrase = "Hello World!"
+puts phrase 
+"Hello world"
+nil
 puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+"Hello world"
+nil
+def say_hello_ten_times
+  phrase = "Hello world"
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase 
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+end
+say_hello_ten_times
