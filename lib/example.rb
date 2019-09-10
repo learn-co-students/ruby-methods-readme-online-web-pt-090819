@@ -11,3 +11,4 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
+ruby lib/example.rb irb
